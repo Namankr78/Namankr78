@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Namankr78
-- 👀 I’m interested in MERN , Data Science and Competitive Coding
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on developing B2B services
-- 📫 How to reach me 
+- 👀 I’m interested in AI ML, Data Science and Competitive Coding
+- 🌱 I’m currently learning tensorflow  and nodejs
+
+- 📫 connect with me to grind together ( naman.kumar2021@vitstudent.ac.in)
 - 😄 Pronouns:  he/him
-- ⚡ Fun fact: 
+
 
 <!---
 Namankr78/Namankr78 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
